@@ -8,6 +8,7 @@
 | Have I Been Sold | https://haveibeensold.app |
 | Have I Been Pwned | https://haveibeenpwned.com | 
 | Hunter | https://hunter.io | 
+| Hudson Rock | https://www.hudsonrock.com/threat-intelligence-cybercrime-tools |
 | Intelx | https://intelx.io |
 | LeakCheck | https://leakcheck.io |
 | Leak - Lookup | https://leak-lookup.com |
